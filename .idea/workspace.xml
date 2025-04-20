@@ -5,24 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4b030b9-b631-474f-80aa-1960ce1905a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data/UNILAK/Sample Points.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kingsley Chika CHUKWU _AcadProject/UNILAK_Thesis_data_Analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Pandas-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Pandas-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Bar Label-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Bar_Colour-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Filling the  Area Bw Line-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Group Bar-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/MatPlotLib-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Stackplot and Streamgraph-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Bar Label.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Bar_Colour.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Filling the  Area Bw Line.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Group Bar.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/MatPlotLib.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/MatPlotLib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Stackplot and Streamgraph.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Bar_Colour-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MatPlotLib-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Pandas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingsley Chika CHUKWU _AcadProject.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingsley Chika CHUKWU _AcadProject/.ipynb_checkpoints/Bar Label-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingsley Chika CHUKWU _AcadProject/.ipynb_checkpoints/Bar_Colour-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingsley Chika CHUKWU _AcadProject/.ipynb_checkpoints/Filling the  Area Bw Line-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingsley Chika CHUKWU _AcadProject/.ipynb_checkpoints/Group Bar-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingsley Chika CHUKWU _AcadProject/.ipynb_checkpoints/MatPlotLib-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingsley Chika CHUKWU _AcadProject/.ipynb_checkpoints/Stackplot and Streamgraph-checkpoint.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +38,12 @@
     &quot;assignee&quot;: &quot;KingVik-Planet&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/KingVik-Planet/Pandas.git&quot;,
-    &quot;accountId&quot;: &quot;16e12b78-1bc6-4f19-922e-e3f3051a81a8&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KingVik-Planet/Kingsley-Chika-CHUKWU_AcadProject.git",
+    "accountId": "16e12b78-1bc6-4f19-922e-e3f3051a81a8"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -66,17 +59,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/chukw/PycharmProjects/Kingsley Chika CHUKWU _AcadProject/Data",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets.disable.when"
+    "last_opened_file_path": "C:/Users/chukw/PycharmProjects/Kingsley Chika CHUKWU _AcadProject/Kingsley Chika CHUKWU _AcadProject/UNILAK",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Kingsley Chika CHUKWU _AcadProject\UNILAK" />
+      <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Data" />
+      <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Kingsley Chika CHUKWU _AcadProject" />
       <recent name="C:\Users\chukw\PycharmProjects\Pandas" />
       <recent name="C:\Users\chukw\PycharmProjects\Pandas\Pandas" />
-      <recent name="C:\Users\chukw\PycharmProjects\Pandas\Data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Data\UNILAK" />
       <recent name="C:\Users\chukw\PycharmProjects\MatPlotLib" />
       <recent name="C:\Users\chukw\PycharmProjects\MatPlotLib\Matplotlib" />
     </key>
