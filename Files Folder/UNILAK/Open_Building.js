@@ -3,7 +3,7 @@
 // Load the building polygons
 var t = ee.FeatureCollection('GOOGLE/Research/open-buildings/v3/polygons');
 
-// Define your region of interest (roi) as a geometry
+// Define Area of Interest (projects/ee-kingsleychika-rwwetland/assets/Ruilindo_AOI)
 var roi = roi;
 
 // Add roi to the map
@@ -27,8 +27,8 @@ var t_roi = t.filterBounds(roi);
 Export.table.toDrive({
   collection: t_roi,
   description: 'OpenBuildings',
-  fileFormat: 'GeoJSON', // Change to 'SHP' for Shapefile format
-  folder: 'Google_Earth_Engine_Export', // Change to the desired folder in your Google Drive
+  fileFormat: 'GeoJSON', // 'SHP' for Shapefile format
+  folder: 'Google_Earth_Engine_Export', // Location Folder Google Drive in my Drive
   fileNamePrefix: 'Buildings'
 });
 
