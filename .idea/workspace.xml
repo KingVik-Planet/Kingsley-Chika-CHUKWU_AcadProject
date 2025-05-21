@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b030b9-b631-474f-80aa-1960ce1905a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/UNILAK/Rainfall and Temprature.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/UNILAK/Rainfall and Temprature.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files Folder/Kigali City Project/Kigali_Rainfall_Temp_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files Folder/Kigali City Project/Kigali_Rainfall_Temp_Analysis.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b4b030b9-b631-474f-80aa-1960ce1905a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
