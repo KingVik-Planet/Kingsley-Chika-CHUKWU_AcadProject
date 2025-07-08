@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4b030b9-b631-474f-80aa-1960ce1905a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ikwo Spectral Indices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output Folder/UNILAK/Temp Draft.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files Folder/Kaytesi Adeline_NBS Analysis/Kaytesi Adeline_NBS Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files Folder/Kaytesi Adeline_NBS Analysis/Kaytesi Adeline_NBS Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files Folder/MSc Thesis/UNILAK_Thesis_data_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files Folder/MSc Thesis/UNILAK_Thesis_data_Analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +53,21 @@
     "Python.Land_cover_Changes.executor": "Run",
     "Python.MatPlotLib.executor": "Run",
     "Python.Precious.executor": "Run",
+    "Python.Temp Draft.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/chukw/PycharmProjects/Kingsley Chika CHUKWU _AcadProject/Files Folder/UNILAK",
+    "last_opened_file_path": "C:/Users/chukw/PycharmProjects/Kingsley Chika CHUKWU _AcadProject/Output Folder/UNILAK",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Output Folder\UNILAK" />
       <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Files Folder\UNILAK" />
       <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Data\UNILAK" />
       <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Kingsley Chika CHUKWU _AcadProject\UNILAK" />
       <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Data" />
-      <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Kingsley Chika CHUKWU _AcadProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Files Folder\Kigali City Project" />
