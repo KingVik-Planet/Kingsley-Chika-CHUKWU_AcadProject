@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4b030b9-b631-474f-80aa-1960ce1905a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Files Folder/South_East_Precipitation/.ipynb_checkpoints/Kigali_Rainfall_Temp_Analysis-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files Folder/South_East_Precipitation/South_East_Precipitation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files Folder/WhyMah Liberia Analysis/WhyMah_NDVI_Trend.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MatPlotLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MatPlotLib.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files Folder/WhyMah Liberia Analysis/.ipynb_checkpoints/WhyMah_NDVI_Trend-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files Folder/WhyMah Liberia Analysis/.ipynb_checkpoints/WhyMah_NDVI_Trend-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files Folder/WhyMah Liberia Analysis/WhyMah_NDVI_Trend.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files Folder/WhyMah Liberia Analysis/WhyMah_NDVI_Trend.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +30,12 @@
     &quot;assignee&quot;: &quot;KingVik-Planet&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KingVik-Planet/Kingsley-Chika-CHUKWU_AcadProject.git",
-    "accountId": "45a3d7fc-b13a-4e26-a66e-c1670d3ee539"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KingVik-Planet/Kingsley-Chika-CHUKWU_AcadProject.git&quot;,
+    &quot;accountId&quot;: &quot;45a3d7fc-b13a-4e26-a66e-c1670d3ee539&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -47,23 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Ikwo Indices.executor": "Run",
-    "Python.Ikwo Spectral Indices.executor": "Run",
-    "Python.Land_cover_Changes.executor": "Run",
-    "Python.MatPlotLib.executor": "Run",
-    "Python.Precious.executor": "Run",
-    "Python.Temp Draft.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/chukw/PycharmProjects/Kingsley Chika CHUKWU _AcadProject",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Ikwo Indices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ikwo Spectral Indices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Land_cover_Changes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MatPlotLib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Precious.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Temp Draft.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chukw/PycharmProjects/Kingsley Chika CHUKWU _AcadProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chukw\PycharmProjects\Kingsley Chika CHUKWU _AcadProject\Files Folder" />
